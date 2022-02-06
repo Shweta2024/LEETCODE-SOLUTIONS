@@ -1,5 +1,5 @@
 /*
-Max Sum Subarray of size K
+Max Sum Subarray of size K   [GFG]
 
 https://practice.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1#
 
